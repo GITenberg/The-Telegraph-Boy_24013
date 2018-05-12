@@ -1,0 +1,39 @@
+_repo: The-Telegraph-Boy_24013
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alger, Horatio, Jr.
+    aliases:
+    - Jr., Horatio Alger
+    - Starr, Julian
+    - Preston, Charles F.
+    - Putnam, Arthur Lee
+    - Alger, Horatio
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2007-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24013'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure and adventurers -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Messengers -- Fiction'
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'New York (N.Y.) -- History -- 1865-1898 -- Fiction'
+- !lcsh 'Friendship -- Fiction'
+- !lcsh 'Conduct of life -- Fiction'
+title: The Telegraph Boy
+url: http://www.gutenberg.org/ebooks/24013
